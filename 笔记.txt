@@ -131,4 +131,4 @@ from wtforms.validators import Required                #引入验证函数
 
 
 在用flask-login时若想获取真正的当前用户,用current_user._get_current_object()方法.
-
+11111
